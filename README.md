@@ -52,11 +52,7 @@ Open Source
 
 # `> skills_matrix`
 
-```text
-┌────────────────────┐
-│   0dayVoid Skill        │
-└────────────────────┘
-
+```text  
 ⬛⬛⬛⬛⬛⬛⬛ 100% Python
 
 ⬛⬛⬛⬛⬛⬜⬜ 85% C / C++
@@ -109,7 +105,7 @@ Open Source
 <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C"/>
 
 </p>
-
+```
 
 ---
 
@@ -147,7 +143,7 @@ status:
 
 mode:
     RESEARCH
-
+```
 ---
 
 # `> featured_projects`
@@ -171,7 +167,7 @@ mode:
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=0dayVoid&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 
 </p>
-
+```
 ---
 
 # `> activity`
