@@ -62,55 +62,88 @@ Open Source
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  85%  C / C++
 
-⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  75%  C# / .NET
+⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  75%  C#
 
-⬛⬛⬛⬛⬛⬛⬬⬜⬜⬜  70%  Go (Golang)
+⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  70%  Go (Golang)
 
-⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜  60%  PHP
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  85%  PHP
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  80%  SQL
 
 ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  75%  B4A
 
-⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  80%  HTML / CSS / JS / Bootstrap
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  100%  HTML / CSS / JS / Bootstrap
 
-⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  70%  Cyber Security
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  85%  Cyber Security
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  85%  Linux
-
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
-</p>
-
----
+```
 
 # `> tech_stack`
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/C%23%20.NET-0D1117?style=for-the-badge&logo=csharp&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF9C"/>
+
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C"/>
 
 </p>
+
 
 ---
 
 # `> security`
 
 ```text
-[+] Cyber Security
+┌──────────────────────────────────────────────┐
+│              0dayVoid Security Lab           │
+└──────────────────────────────────────────────┘
+
+
+[+] Cyber Security Research
+
 [+] Bug Hunting
+
+[+] Vulnerability Analysis
+
 [+] IoT Security Research
+
 [+] Network Security
-[+] Automation
+
+[+] Linux Security
+
 [+] Malware Analysis
-```
+
+[+] Reverse Engineering
+
+[+] Automation & Tool Development
+
+[+] Security Research Lab
+
+
+status:
+    ACTIVE
+
+mode:
+    RESEARCH
 
 ---
 
