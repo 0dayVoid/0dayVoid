@@ -112,11 +112,6 @@ Open Source
 # `> security`
 
 ```text
-┌──────────────────────────────────────────────┐
-│              0dayVoid Security Lab           │
-└──────────────────────────────────────────────┘
-
-
 [+] Cyber Security Research
 
 [+] Bug Hunting
@@ -144,32 +139,6 @@ status:
 mode:
     RESEARCH
 ```
----
-
-# `> featured_projects`
-
-<p align="center">
-
-<a href="https://github.com/0dayVoid/Ransomware">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0dayVoid&repo=Ransomware&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C"/>
-</a>
-
-</p>
-
----
-
-# `> github_stats`
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=0dayVoid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=0dayVoid&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
-
-</p>
-```
----
-
 # `> activity`
 
 <p align="center">
