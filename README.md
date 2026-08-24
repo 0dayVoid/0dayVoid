@@ -34,7 +34,7 @@ Open Source
 
 ---
 
-# `> about_me`
+# `> about me`
 
 ```text
 🔐 Security Research
@@ -50,7 +50,7 @@ Open Source
 
 ---
 
-# `> skills_matrix`
+# `> skills`
 
 ```text  
 ⬛⬛⬛⬛⬛⬛⬛ 100% Python
@@ -78,7 +78,7 @@ Open Source
 ⬛⬛⬛⬛⬛⬜⬜ 85% Linux
 ```
 
-# `> tech_stack`
+# `> See`
 
 <p align="center">
 
@@ -105,7 +105,6 @@ Open Source
 <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C"/>
 
 </p>
-```
 
 ---
 
@@ -124,47 +123,15 @@ Open Source
 
 [+] Linux Security
 
-[+] Malware Analysis
-
-[+] Reverse Engineering
-
 [+] Automation & Tool Development
 
 [+] Security Research Lab
-
-
-status:
-    ACTIVE
-
-mode:
-    RESEARCH
 ```
 # `> activity`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayVoid&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-
----
-
-# `> terminal`
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   $ ./0dayVoid                                      │
-│                                                     │
-│   [✓] Python Developer                              │
-│   [✓] Security Research                             │
-│   [✓] Bug Hunting                                   │
-│   [✓] IoT Security                                  │
-│   [✓] Automation                                    │
-│                                                     │
-│   status: ONLINE                                    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
 ---
 
 # `> contact`
@@ -186,7 +153,7 @@ mode:
 <p align="center">
 
 ```text
-"Exploring the unknown."
+"Exploring the unknown . . . "
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
