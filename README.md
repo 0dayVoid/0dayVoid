@@ -1,50 +1,193 @@
-# 👋 Hi, I'm 0dayVoid
+<!-- Animated Header -->
 
-
-## 🧠 About Me
-
-🐍 Python Developer  
-🔐 Cyber Security Learner  
-🐞 Bug Hunter  
-🌐 IoT Security Research  
-⚙️ Automation Developer  
-🚀 Open Source Enthusiast
-
-
-## 🛠️ Skills
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=0dayVoid&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- Typing Animation -->
 
-## 📂 Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=Python+Developer;Cyber+Security+Learner;Bug+Hunter;IoT+Security+Researcher;Automation+%7C+Open+Source;Exploring+the+Unknown..." />
+</p>
 
-🚀 Ransomware Research Project  
-🐍 Python Security Tools  
-🌐 IoT Security Experiments  
-⚡ Automation Scripts
-
-
-## 📊 GitHub Stats
-
-![0dayVoid Stats](https://github-readme-stats.vercel.app/api?username=0dayVoid&show_icons=true&theme=tokyonight)
-
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0dayVoid&layout=compact&theme=tokyonight)
-
-
-## 📫 Contact
-
-Telegram:
-`t.me/CoreUnknown`
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0dayVoid&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" />
+</p>
 
 ---
 
-> "Exploring the unknown."
+# `> whoami`
+
+```text
+┌──[0dayVoid@github]─[~]
+└─$ whoami
+
+0dayVoid
+
+Python Developer
+Cyber Security Learner
+Bug Hunter
+IoT Security Research
+Automation
+Open Source
+```
+
+---
+
+# `> about_me`
+
+```text
+🔐 Security Research
+🐍 Python Development
+🐞 Bug Hunting
+🌐 IoT Security
+⚙️ Automation
+🐧 Linux
+🔧 Open Source
+```
+
+> Exploring systems, breaking things in controlled environments, and learning how to build them better.
+
+---
+
+# `> skills_matrix`
+
+```text
+┌──────────────────────────────────────────────┐
+│                0dayVoid Skill                │
+└──────────────────────────────────────────────┘
+
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 100%  Python
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  85%  C / C++
+
+⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  75%  C# / .NET
+
+⬛⬛⬛⬛⬛⬛⬬⬜⬜⬜  70%  Go (Golang)
+
+⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜  60%  PHP
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  80%  SQL
+
+⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  75%  B4A
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  80%  HTML / CSS / JS / Bootstrap
+
+⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜  70%  Cyber Security
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜  85%  Linux
+
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dayVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
+</p>
+
+---
+
+# `> tech_stack`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+
+</p>
+
+---
+
+# `> security`
+
+```text
+[+] Cyber Security
+[+] Bug Hunting
+[+] IoT Security Research
+[+] Network Security
+[+] Automation
+[+] Malware Analysis
+```
+
+---
+
+# `> featured_projects`
+
+<p align="center">
+
+<a href="https://github.com/0dayVoid/Ransomware">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0dayVoid&repo=Ransomware&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C"/>
+</a>
+
+</p>
+
+---
+
+# `> github_stats`
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=0dayVoid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=0dayVoid&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+
+</p>
+
+---
+
+# `> activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0dayVoid&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+# `> terminal`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   $ ./0dayVoid                                      │
+│                                                     │
+│   [✓] Python Developer                              │
+│   [✓] Security Research                             │
+│   [✓] Bug Hunting                                   │
+│   [✓] IoT Security                                  │
+│   [✓] Automation                                    │
+│                                                     │
+│   status: ONLINE                                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> contact`
+
+<p align="center">
+
+<a href="https://github.com/0dayVoid">
+  <img src="https://img.shields.io/badge/GitHub-0dayVoid-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+</a>
+
+<a href="https://t.me/CoreUnknown">
+  <img src="https://img.shields.io/badge/Telegram-CoreUnknown-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF9C"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+```text
+"Exploring the unknown."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</p>
