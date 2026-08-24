@@ -54,7 +54,7 @@ Open Source
 
 ```text
 ┌────────────────────┐
-│   0dayVoid Skill   │
+│   0dayVoid Skill        │
 └────────────────────┘
 
 ⬛⬛⬛⬛⬛⬛⬛ 100% Python
